@@ -12,7 +12,6 @@
             <li>常见问题</li>
             <li>购物指南</li>
           </ul>
-
         </div>
         <div class="footerItem">
           <h4>配送方式</h4>
@@ -55,7 +54,9 @@
         </div>
         <div class="footerItem">
           <h4>帮助中心</h4>
-          <img src="../assets/logo.png" alt="">
+<!--          -->
+<!--          <img src="../assets/logo.png" alt="">-->
+<!--          -->
         </div>
       </div>
       <div class="copyright">
@@ -66,9 +67,6 @@
           <li>联系我们
             <span class="space"></span>
           </li>
-          <li>关于我们
-            <span class="space"></span>
-          </li>
           <li>商家入驻
             <span class="space"></span>
           </li>
@@ -76,9 +74,6 @@
             <span class="space"></span>
           </li>
           <li>友情链接
-            <span class="space"></span>
-          </li>
-          <li>关于我们
             <span class="space"></span>
           </li>
         </ul>
