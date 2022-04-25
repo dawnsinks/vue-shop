@@ -17,6 +17,7 @@ import Rank from "@/components/Rank";
 import Like from "@/components/Like";
 import Floor from "@/components/Floor";
 import Brand from "@/components/Brand";
+
 export default {
   name: "Home",
   components: {Brand, Floor, Like, Rank, Recommend, ListContainer, TypeNav}
